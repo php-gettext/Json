@@ -1,0 +1,16 @@
+{
+    "domain": "testingdomain",
+    "plural-forms": "nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);",
+    "messages": {
+        "": {
+            "%ss must be unique for %ss %ss.": "%ss mora da bude jedinstven za %ss %ss."
+        },
+        "other-context": {
+            "日本人は日本で話される言語です！": [
+                "singular",
+                "plural1",
+                "plural2"
+            ]
+        }
+    }
+}
